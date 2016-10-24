@@ -6,3 +6,4 @@ git add
 git not add
 Creating a new branch is quick and simple.
 change fast forward model
+push git from windows.
